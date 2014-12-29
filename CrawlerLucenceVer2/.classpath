@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/lucene-4.10.2/lucene-4.10.2/core/lucene-core-4.10.2.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/lucene-4.10.2/lucene-4.10.2/analysis/common/lucene-analyzers-common-4.10.2.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/lucene-4.10.2/lucene-4.10.2/queryparser/lucene-queryparser-4.10.2.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/lucene-4.10.2/lucene-4.10.2/queries/lucene-queries-4.10.2.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/apache-mime4j-core-0.7.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/apache-mime4j-dom-0.7.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/boilerpipe-1.1.0.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/commons-compress-1.3.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/geronimo-stax-api_1.0_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/je-4.0.92.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/metadata-extractor-2.4.0-beta-1.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5-dependencies/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/GenericDocumentParser-apache/tika-app-1.6.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/crawler4j-3.5/crawler4j-3.5.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/kcwin32/kcwin32/java/kyotocabinet.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="L:/ada assignments p503/algo projects doc/java-api/kcwin32/kcwin32/java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/jcommon-1.0.23/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/commons-lang3-3.3.2-bin/commons-lang3-3.3.2/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/lucene-4.10.2/lucene-4.10.2/highlighter/lucene-highlighter-4.10.2.jar"/>
+	<classpathentry kind="lib" path="L:/ada assignments p503/algo projects doc/java-api/lucene-4.10.2/lucene-4.10.2/memory/lucene-memory-4.10.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
