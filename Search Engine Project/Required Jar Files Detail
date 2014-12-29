@@ -1,0 +1,8 @@
+.classpath (files under refer different files)
+==========================================================
+1. Apache Lucene 4.10.2:: http://lucene.apache.org/
+2. crawler4j-3.5:: https://code.google.com/p/crawler4j/
+3. Hash DB I/O :: http://fallabs.com/kyotocabinet/
+4. jcommon-1.0.23 :: http://maven-repository.com/artifact/org.jfree/jcommon/1.0.23
+5. jfreechart-1.0.19 :: http://www.jfree.org/jfreechart/
+6. kcwin32\java : extract dll from folder 'dll for hash db io' and placed it into 
