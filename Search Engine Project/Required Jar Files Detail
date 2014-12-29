@@ -7,4 +7,4 @@
 5. jfreechart-1.0.19 :: http://www.jfree.org/jfreechart/
 6. kcwin32\java : extract dll from folder 'dll for hash db io' and placed it into 
 
-Note:: Used the .classpath file for more references
+Note:: Used the .classpath file for more references present inside the project path
