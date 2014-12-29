@@ -6,3 +6,5 @@
 4. jcommon-1.0.23 :: http://maven-repository.com/artifact/org.jfree/jcommon/1.0.23
 5. jfreechart-1.0.19 :: http://www.jfree.org/jfreechart/
 6. kcwin32\java : extract dll from folder 'dll for hash db io' and placed it into 
+
+Note:: Used the .classpath file for more references
